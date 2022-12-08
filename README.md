@@ -1,5 +1,5 @@
 # métodos de ordenação
-(Trabalho de IC2)
+(Trabalho de IC2) - Linguagem: C++
 
 Algoritmos para os métodos:
 
